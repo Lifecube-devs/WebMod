@@ -3,8 +3,8 @@
 3. Make sure your not doing anything that could be considered 'Hacking' or 'Cheating' in games accross the web
 4. Click the 'save' button
 
----------------------------------------------------------
-Suggestions: 
+-----------------------------------------
+##### Suggestions: 
   Use 'alert(window.location.href)' to find the exact URL
   Use 'alert(window.location.hostname)' to find the exact host name
   You could also use another alert() API to find the URL or Site name
