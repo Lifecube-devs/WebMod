@@ -1,7 +1,8 @@
-1. Create an 'If' statment with 'window.location.href == host' inside
+1. Create an 'If' statment with ```window.location.href == host``` as the condition
 2. Inside the 'If' statement add an element, change an existing one, create a variable inside the page, or change a variable
 3. Make sure your not doing anything that could be considered 'Hacking' or 'Cheating' in games accross the web
 4. Click the 'save' button
+5. Reload the webpage and the script runs.
 
 -----------------------------------------
 ##### Suggestions: 
