@@ -1,0 +1,5 @@
+class Mod {
+  constructor(site){
+  
+  }
+}
